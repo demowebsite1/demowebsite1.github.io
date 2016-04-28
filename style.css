@@ -5,7 +5,7 @@ html,body,.cover
 
 .cover
 {
-	background: url('img/couchfriends.jpg') top left no-repeat;
+	background: url('https://cloud.githubusercontent.com/assets/18715250/14878520/b8196478-0ce9-11e6-84a9-98a9a1cf683c.jpg') top left no-repeat;
 	background-size: cover;
 	display:table;
 	width: 100%;
@@ -82,7 +82,7 @@ h2
 
 #team
 {
-	background: url('img/couchfriends.jpg') top left no-repeat;
+	background: url('https://cloud.githubusercontent.com/assets/18715250/14878520/b8196478-0ce9-11e6-84a9-98a9a1cf683c.jpg') top left no-repeat;
 	background-size: cover;
 	color: white;
 	text-align: center;
